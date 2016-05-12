@@ -1,8 +1,8 @@
 /**
  * Created by Michael on 12/05/16.
  */
-
-export default function BookReducer() {
+//BookReducer
+export default function () {
     return [
         { title: 'The Python Book' },
         { title: 'Javascript: The good parts' },
