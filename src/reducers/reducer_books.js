@@ -6,7 +6,7 @@ export default function () {
     return [
         { title: 'The Python Book' },
         { title: 'Javascript: The good parts' },
-        { title: 'Pearl: Write one.' },
+        { title: 'Pearl: Write once.' },
         { title: 'Ruby, a poor mans Python' }
 
         // { title: 'The Python Book' , description: 'A python book' },
